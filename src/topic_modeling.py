@@ -26,11 +26,6 @@ nltk.download('averaged_perceptron_tagger')
 nltk.download('maxent_ne_chunker')
 nltk.download('treebank')
 
-nlp = StanfordCoreNLP('http://corenlp.run', port=80)
-#nlp = StanfordCoreNLP(r'/Users/tanveershaikh/anaconda3/lib/python3.6/site-packages/stanford-corenlp-full-2018-02-27')
-#nlp = StanfordCoreNLP('http://localhost', port=9000, memory='8g')
-#nlp = StanfordCoreNLP('http://nlp.stanford.edu:8080/corenlp/', port=8080)
-
 
 noun_pos = ["NNS", "NNP", "PRP", "NN"]
 
