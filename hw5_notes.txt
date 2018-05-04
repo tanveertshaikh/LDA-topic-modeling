@@ -1,0 +1,41 @@
+1) Your approach for solving a task should use machine learning and the concepts we have learned in class. For example, features should not be handpicked but picked by an algorithm. 
+
+ 
+
+2) For the required portions of HW 5, the only figures you should include in your one-page write-up should be related to evaluation, e.g., learning curves. If you would like to visualize the data itself, you are welcome to include such visualizations only in the extra credit portion. 
+
+ 
+
+3) If you decide to submit a notebook for extra credit, please share your private repositories with me and the TA's. For github, share with zynnel, ragib06, and shizhan1992. For bitbucket, share with zynnel, rahsan3, and zhanshi.
+
+
+
+Be sure to answer the following questions: (a) what is your data and task? (b) what ML solution did you
+
+choose and, most importantly, why was this an appropriate choice? (c) how did you choose to evaluate
+
+success? (d) what software did you use and why did you choose it? (e) what are the results? (f) show
+
+some examples from the development data that your approach got correct and some it got wrong: if
+
+you were to try to fix the ones it got wrong, what would you do?
+
+I thought following links could be helpful for us to analyse and start working on Young people survey dataset specifically the second option of  Spending habits. I thought of sharing the links 
+
+ 
+
+ 
+
+https://medium.com/@smikatoots/young-people-these-days-a-quick-analysis-e399f9772f7b
+
+ 
+
+https://rstudio-pubs-static.s3.amazonaws.com/281804_7ddc861c16fb4f18ac704b7ade768bdd.html#(2)
+
+ 
+
+http://chaspari.engr.tamu.edu/wp-content/uploads/sites/147/2018/01/2_9-1.pdf
+
+ 
+
+https://mef-bda503.github.io/pj-tektunalic/Assignment_Esoph_and_Young_People__Survey.html
