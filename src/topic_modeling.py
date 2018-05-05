@@ -16,34 +16,15 @@ from nltk.corpus import words
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import sent_tokenize
 from sklearn import linear_model, metrics
-from stanfordcorenlp import StanfordCoreNLP
 from tqdm import tqdm
 
 nltk.download('wordnet')
-
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('maxent_ne_chunker')
 nltk.download('treebank')
 
 
-noun_pos = ["NNS", "NNP", "PRP", "NN"]
-
-# sometimes verbs are being tagged as VP in the tree NOT in stanford parser
-verb_pos = ["VBD", "VBZ", "VBP", "VBN", "VB", "VBG", "VP"]
-
-present_verbs = {'VBG', 'VBP', 'VBZ'}
-past_verbs = {'VBD', 'VBN'}
-
-singular_noun = ["NN", "NNP"]
-plural_noun = ["NNS", "NNPS"]
-
-singular_verb = "VBZ"
-plural_verb = "VBP"
-modals = ["can", "cant", "couldn't", "could", "may", "might", "will",
-          "won't", "would", "wouldn't", "must", "shall", "should"]
-
-# Global variables, initialization and corpus creation
 dictionary = dict.fromkeys(words.words(), None)
 lemmatizer = WordNetLemmatizer()
 
@@ -715,7 +696,6 @@ for e in tqdm(train_essays):
     i = i + 1
 
 
-nlp.close()
 
 print("\n\nTraining on 100 essays dataset\n")
 
