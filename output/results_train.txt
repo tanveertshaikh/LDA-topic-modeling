@@ -1,0 +1,80 @@
+[(53,
+  '0.127*"book" + 0.060*"baltimore" + 0.052*"county" + 0.052*"dream" + '
+  '0.049*"corruption" + 0.044*"influence" + 0.034*"football" + '
+  '0.033*"prosecutor" + 0.032*"twist" + 0.029*"louis"'),
+ (90,
+  '0.069*"destroy" + 0.069*"summer" + 0.060*"normal" + 0.056*"heart" + '
+  '0.040*"especially" + 0.039*"equal" + 0.038*"paragraph" + 0.036*"current" + '
+  '0.033*"solution" + 0.028*"smith"'),
+ (82,
+  '0.113*"street" + 0.054*"funny" + 0.050*"martin" + 0.041*"survive" + '
+  '0.038*"outside" + 0.035*"buying" + 0.034*"easily" + 0.033*"bill" + '
+  '0.031*"declare" + 0.028*"harry"'),
+ (8,
+  '0.073*"oscar" + 0.070*"poverty" + 0.055*"hear" + 0.041*"track" + '
+  '0.039*"pattern" + 0.039*"showing" + 0.032*"spy" + 0.031*"collapse" + '
+  '0.030*"discus" + 0.027*"document"'),
+ (27,
+  '0.107*"words" + 0.076*"border" + 0.045*"germany" + 0.043*"replace" + '
+  '0.038*"skeptical" + 0.035*"mostly" + 0.031*"mental" + 0.028*"turning" + '
+  '0.028*"explain" + 0.026*"judges"'),
+ (56,
+  '0.124*"fail" + 0.122*"evidence" + 0.082*"controversy" + 0.050*"improve" + '
+  '0.045*"mexico" + 0.035*"giant" + 0.035*"rank" + 0.031*"spoiler" + '
+  '0.031*"ambitious" + 0.030*"chaos"'),
+ (37,
+  '0.131*"bring" + 0.119*"doctor" + 0.069*"europe" + 0.059*"pay" + '
+  '0.059*"modern" + 0.050*"torture" + 0.044*"breaking" + 0.030*"whatever" + '
+  '0.030*"saving" + 0.025*"stereotype"'),
+ (48,
+  '0.155*"create" + 0.098*"racial" + 0.077*"victim" + 0.059*"vaccine" + '
+  '0.045*"actual" + 0.035*"information" + 0.034*"cartoon" + 0.032*"people" + '
+  '0.027*"lawmaker" + 0.024*"obesity"'),
+ (12,
+  '0.113*"racism" + 0.086*"governor" + 0.058*"base" + 0.054*"latino" + '
+  '0.033*"fascinate" + 0.031*"closing" + 0.031*"high" + 0.029*"enforcement" + '
+  '0.029*"people" + 0.025*"surge"'),
+ (0,
+  '0.089*"energy" + 0.079*"scott" + 0.061*"walker" + 0.052*"conversation" + '
+  '0.051*"colbert" + 0.045*"stephen" + 0.044*"investigation" + 0.034*"clean" + '
+  '0.031*"cycle" + 0.026*"label"'),
+ (7,
+  '0.184*"american" + 0.153*"white" + 0.129*"black" + 0.086*"start" + '
+  '0.068*"people" + 0.048*"believe" + 0.047*"plan" + 0.031*"massive" + '
+  '0.027*"phone" + 0.025*"treat"'),
+ (97,
+  '0.139*"presidential" + 0.121*"every" + 0.102*"movie" + 0.058*"running" + '
+  '0.054*"almost" + 0.047*"nothing" + 0.042*"parent" + 0.030*"process" + '
+  '0.028*"continue" + 0.027*"trouble"'),
+ (71,
+  '0.418*"clinton" + 0.276*"hillary" + 0.054*"muslim" + 0.043*"different" + '
+  '0.031*"comment" + 0.021*"activist" + 0.021*"speak" + 0.011*"people" + '
+  '0.010*"playing" + 0.008*"react"'),
+ (75,
+  '0.248*"really" + 0.146*"things" + 0.068*"worse" + 0.058*"scientist" + '
+  '0.053*"scandal" + 0.031*"water" + 0.028*"realize" + 0.028*"people" + '
+  '0.021*"explain" + 0.018*"credit"'),
+ (83,
+  '0.307*"state" + 0.109*"country" + 0.106*"government" + 0.051*"seem" + '
+  '0.051*"unite" + 0.050*"decade" + 0.029*"community" + 0.029*"people" + '
+  '0.023*"local" + 0.015*"could"'),
+ (70,
+  '0.383*"republican" + 0.152*"democrat" + 0.062*"senate" + 0.046*"take" + '
+  '0.038*"security" + 0.036*"victory" + 0.034*"sexual" + 0.033*"assault" + '
+  '0.018*"allegation" + 0.013*"explain"'),
+ (5,
+  '0.262*"america" + 0.175*"problem" + 0.078*"family" + 0.064*"crisis" + '
+  '0.064*"explain" + 0.050*"china" + 0.035*"ignore" + 0.027*"attention" + '
+  '0.018*"completely" + 0.015*"could"'),
+ (66,
+  '0.340*"obama" + 0.305*"president" + 0.040*"immigrant" + 0.027*"action" + '
+  '0.022*"george" + 0.019*"valley" + 0.019*"forget" + 0.018*"anyway" + '
+  '0.018*"silicon" + 0.017*"favorite"'),
+ (24,
+  '0.133*"chart" + 0.129*"story" + 0.091*"history" + 0.079*"shooting" + '
+  '0.062*"understand" + 0.046*"protest" + 0.041*"decision" + 0.036*"show" + '
+  '0.032*"movement" + 0.029*"tell"'),
+ (19,
+  '0.791*"trump" + 0.051*"could" + 0.015*"lesson" + 0.013*"come" + '
+  '0.009*"angry" + 0.008*"might" + 0.007*"hampshire" + 0.006*"devastate" + '
+  '0.006*"sarah" + 0.006*"letting"')]
