@@ -1,4 +1,4 @@
-``LDA Topic Modeling`` - Topic Modeling in Python with NLTK and Gensim
+``LDA Topic Modeling`` - Probabilistic Modeling in Python with NLTK and Gensim
 ========================
 
 ### Dataset Link
