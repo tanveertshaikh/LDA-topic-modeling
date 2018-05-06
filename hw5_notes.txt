@@ -1,6 +1,0 @@
-e.g., learning curves
-(f) show
-
-some examples from the development data that your approach got correct and some it got wrong: if
-
-you were to try to fix the ones it got wrong, what would you do?
